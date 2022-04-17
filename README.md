@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shrivastavpratham
-- 👀 I’m interested in DEvploment and datascience
+- 👀 I’m interested in Devploment and datascience
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on open projects releated to web dev,c++
 - 📫 How to reach me prathamshrivastav5@gmail.com
