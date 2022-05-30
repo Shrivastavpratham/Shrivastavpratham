@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shrivastavpratham
+- 👋 Hi, I’m @PrathamShrivastav
 - 👀 I’m interested in Devploment and datascience
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on open projects releated to web dev,c++
