@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PrathamShrivastav
 - 👀 I’m interested in Devploment and datascience
-- 🌱 I’m currently learning Web Dev
+- ✨ I’m Full Stack Web developer
+- 🌱 Currently learning Java and Python 
 - 💞️ I’m looking to collaborate on open projects releated to web dev,c++
 - 📫 How to reach me prathamshrivastav5@gmail.com
 
